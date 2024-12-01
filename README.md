@@ -1,3 +1,7 @@
+## Kajs portfoliesida
+
+Websidan live kan du se på [följande sida](https://kaj-portfolio-site.netlify.app/)
+
 ## Frågor & Svar
 
 ### Vad kan man utveckla m.h.a av Javascript inom frontend?
